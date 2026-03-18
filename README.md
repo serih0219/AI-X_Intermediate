@@ -15,7 +15,9 @@
 
 # 01. 스마트폰 센서 데이터 예측 모델 개발 (Team Project)
 
-[![Smartphone Sensor Final Slides](images/smartphone_sensor_image.png)](01_smartphone_sensor_ml/slides/smartphone_sensor_final_slides.pdf)
+<a href="01_smartphone_sensor_ml/slides/smartphone_sensor_final_slides.pdf">
+  <img src="images/smartphone_sensor_image.png" width="520" />
+</a>
 
 ### Goal
 스마트폰 센서 데이터 기반 인간 행동(HAR)을 분류하는 최적의 ML 모델을 구현하고,  
@@ -27,13 +29,15 @@
 - (추가) 생성형 AI 답변 비교 실험 포함
 
 ### Deliverables
-- 📄 Final Presentation (PDF): [![Smartphone Sensor Final Slides](images/smartphone_sensor_image.png)](01_smartphone_sensor_ml/slides/smartphone_sensor_final_slides.pdf)
+- 📄 Final Presentation (PDF): `01_smartphone_sensor_ml/slides/smartphone_sensor_final_slides.pdf`
 
 ---
 
 # 02. 미세먼지 농도 예측 모델 개발 (Team Project)
 
-[![Fine Dust Final Slides](images/fine_dust_image.png)](02_fine_dust_ml/slides/fine_dust_final_slides.pdf)
+<a href="02_fine_dust_ml/slides/fine_dust_final_slides.pdf">
+  <img src="images/fine_dust_image.png" width="520" />
+</a>
 
 ### Goal
 서울 지역 미세먼지 농도 예측을 목표로, 전처리/변수 선별 후 예측 모델을 개발하고  
@@ -44,7 +48,8 @@
 - 시계열 모델 실험: ARIMA
 
 ### Deliverables
-- 📄 Final Presentation (PDF): [![Fine Dust Final Slides](images/fine_dust_image.png)](02_fine_dust_ml/slides/fine_dust_final_slides.pdf)
+- 📄 Final Presentation (PDF): `02_fine_dust_ml/slides/fine_dust_final_slides.pdf`
+
 
 ---
 
